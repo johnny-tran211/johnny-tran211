@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\github\DHFashion\DHFashion\bin\Debug\netcoreapp2.2\DHFashion.deps.json
+C:\Users\Dell\Desktop\github\DHFashion\DHFashion\bin\Debug\netcoreapp2.2\DHFashion.runtimeconfig.json
+C:\Users\Dell\Desktop\github\DHFashion\DHFashion\bin\Debug\netcoreapp2.2\DHFashion.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\github\DHFashion\DHFashion\bin\Debug\netcoreapp2.2\DHFashion.dll
+C:\Users\Dell\Desktop\github\DHFashion\DHFashion\obj\Debug\netcoreapp2.2\DHFashion.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\github\DHFashion\DHFashion\obj\Debug\netcoreapp2.2\DHFashion.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\github\DHFashion\DHFashion\obj\Debug\netcoreapp2.2\DHFashion.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\github\DHFashion\DHFashion\obj\Debug\netcoreapp2.2\DHFashion.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\github\DHFashion\DHFashion\obj\Debug\netcoreapp2.2\DHFashion.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\github\DHFashion\DHFashion\obj\Debug\netcoreapp2.2\DHFashion.AssemblyInfo.cs
+C:\Users\Dell\Desktop\github\DHFashion\DHFashion\obj\Debug\netcoreapp2.2\DHFashion.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\Desktop\github\DHFashion\DHFashion\bin\Debug\netcoreapp2.2\DHFashion.pdb
+C:\Users\Dell\Desktop\github\DHFashion\DHFashion\obj\Debug\netcoreapp2.2\DHFashion.dll
+C:\Users\Dell\Desktop\github\DHFashion\DHFashion\obj\Debug\netcoreapp2.2\DHFashion.pdb
